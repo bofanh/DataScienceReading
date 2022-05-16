@@ -3,6 +3,8 @@
 
 Here is my data science related library for the books and papers I read and used for academic purpose.
 
+br()
+
 Strongly encourage you to make **pull request** to update thees paper's information! (See [contributing details](#contribution))
 
 ![](https://img.shields.io/github/last-commit/bofanh/DataScienceReading?color=green)
