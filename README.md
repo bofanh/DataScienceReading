@@ -33,6 +33,8 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 ![](https://img.shields.io/badge/project1-red) The project that citied this paper.
 
+![](https://img.shields.io/badge/model-yellow) The model introduced from the paper.
+
 ## Papers
 ### paper1
 
