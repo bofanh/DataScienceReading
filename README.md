@@ -14,7 +14,6 @@ Personal data science related reading from [Bofan](https://github.com/bofanh). W
     - [Class Annotation](#class-annotation)
   - [Papers](#papers)
     - [Paper 1](#paper1)
-
   - [Contribution](#contribution)
     - [Contributors](#contributors)
     - [Contributing to this paper list](#contributing-to-this-paper-list)
@@ -26,13 +25,8 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 ### Class Annotation
 
-![](https://img.shields.io/badge/T5-blue) The abbreviation of the work.
-
-![](https://img.shields.io/badge/Continous_Template-red) The key features in terms of prompt learning used in the work.
-
-![](https://img.shields.io/badge/Generation-brown) The main explored task of the work.
-
-![](https://img.shields.io/badge/Analysis-green) The main explored property of prompt learning methods in the work.
+![](https://img.shields.io/badge/Class1-blue) The Class that introduced this paper.
+![](https://img.shields.io/badge/project1-red) The project that referenced this paper.
 
 ## Papers
 ### paper1
