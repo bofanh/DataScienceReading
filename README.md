@@ -41,6 +41,6 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 ### Contributing to this paper list
    - First, think about which category the work should belong to. 
    - Second, use the same format as the others to discribe the work. Note that there should be an empty line between the title and the authors list, and take care of the indentation.
-   - Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
+   - Then, add [Annotation tags](#annotations). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
 
-   **Don't worry if you put all these wrong, we will fix them for you.** Just contribute and promote your awesome work here! 
+   **No panic, I will fix every thing.** Just contribute and promote your awesome work here! 
