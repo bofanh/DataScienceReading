@@ -26,7 +26,8 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 ### Class Annotation
 
 ![](https://img.shields.io/badge/Class1-blue) The Class that introduced this paper.
-![](https://img.shields.io/badge/project1-red) The project that referenced this paper.
+
+![](https://img.shields.io/badge/project1-red) The project that citied this paper.
 
 ## Papers
 ### paper1
