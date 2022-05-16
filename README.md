@@ -11,7 +11,7 @@ Personal data science related reading from [Bofan](https://github.com/bofanh). W
 
 - [DataSience Reading](#datasciencereading)
   - [Introduction](#introduction)
-    - [Class Annotation](#class-annotation)
+    - [Annotations](#annotations)
   - [Papers](#papers)
     - [Paper 1](#paper1)
   - [Contribution](#contribution)
@@ -23,7 +23,7 @@ Personal data science related reading from [Bofan](https://github.com/bofanh). W
 
 This is a paper list about **Data Science** for academic and study purpose. In the a
 
-### Class Annotation
+### Annotations
 
 ![](https://img.shields.io/badge/Class1-blue) The Class that introduced this paper.
 
