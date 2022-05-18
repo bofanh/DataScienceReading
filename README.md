@@ -11,7 +11,7 @@ Strongly encourage you to make **pull request** to update thees paper's informat
 <!-- omit in toc -->
 ## Contents
 
-Personal data science related reading from [Bofan](https://github.com/bofanh). Watch this repository for the latest updates!
+Personal data science related reading from [ME](https://github.com/bofanh). Watch this repository for the latest updates!
 
 - [DataSience Reading](#datasciencereading)
   - [Introduction](#introduction)
