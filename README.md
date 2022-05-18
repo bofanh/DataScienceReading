@@ -40,7 +40,7 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 ## Contribution
 ### Contributors 
-[Author](https://github.com/bofanh), and Next one is you
+[ME](https://github.com/bofanh), and Next one is YOU.
 
 ### Contributing to this paper list
    - First, think about which category the work should belong to. 
