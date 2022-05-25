@@ -41,6 +41,8 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 [2. Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk&t=6s) ![](https://img.shields.io/badge/MachineLearning-blue)
 
+[3. Machine Learning Roadmap github](https://github.com/mrdbourke/machine-learning-roadmap) ![](https://img.shields.io/badge/MachineLearning-blue)
+
 
 ## Contribution
 ### Contributors 
