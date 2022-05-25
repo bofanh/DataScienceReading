@@ -48,6 +48,7 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 ### Write LATEX Paper
 [1. Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/LATEX-blue)
+
 [2. LATEX Template](https://www.latextemplates.com/)
 
 ## Contribution
