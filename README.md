@@ -30,7 +30,7 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 ### Annotations
 
-![](https://img.shields.io/badge/Class1-blue) The Class that introduced this paper.
+![](https://img.shields.io/badge/TOPIC-blue) The Class that introduced this paper.
 
 ![](https://img.shields.io/badge/project1-red) The project that citied this paper.
 
@@ -47,7 +47,7 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 [4. Machine Learning Roadmap mindmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva) ![](https://img.shields.io/badge/MachineLearning-blue) 
 
 ### Write LATEX Paper
-[Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf)
+[Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/LATEX-blue)
 
 ## Contribution
 ### Contributors 
