@@ -37,7 +37,7 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 ## Papers
 ### Machine Learning Resources
-[Machine Learning Courses & Resources I Recommend]([(https://www.mrdbourke.com/ml-resources/)])
+[Machine Learning Courses & Resources I Recommend](https://www.mrdbourke.com/ml-resources/)
 
 
 ## Contribution
