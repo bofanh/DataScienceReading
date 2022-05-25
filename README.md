@@ -17,10 +17,10 @@ Personal data science related reading from [ME](https://github.com/bofanh). Watc
   - [Introduction](#introduction)
     - [Annotations](#annotations)
   - [Papers](#papers)
-    - [Paper 1](#paper1)
+    - [Machine Learning Resources](#machinelearningresources)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
-    - [Contributing to this paper list](#contributing-to-this-paper-list)
+
 
 
 ## Introduction
@@ -44,9 +44,3 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 ### Contributors 
 [ME](https://github.com/bofanh), and Next one is YOU.
 
-### Contributing to this paper list
-   - First, think about which category the work should belong to. 
-   - Second, use the same format as the others to discribe the work. Note that there should be an empty line between the title and the authors list, and take care of the indentation.
-   - Then, add [Annotation tags](#annotations). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
-
-   **No panic, I will fix every thing.** Just contribute and promote your awesome work here! 
