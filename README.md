@@ -18,6 +18,7 @@ Personal data science related reading from [ME](https://github.com/bofanh). Watc
     - [Annotations](#annotations)
   - [Papers](#papers)
     - [Machine Learning Resources](#machinelearningresources)
+    - [Write LATEX Paper](#writelatexpaper)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
 
@@ -45,6 +46,8 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 [4. Machine Learning Roadmap mindmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva) ![](https://img.shields.io/badge/MachineLearning-blue) 
 
+### Write LATEX Paper
+[Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf)
 
 ## Contribution
 ### Contributors 
