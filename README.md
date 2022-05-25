@@ -36,7 +36,9 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 ![](https://img.shields.io/badge/model-yellow) The model introduced from the paper.
 
 ## Papers
-### paper1
+### Machine Learning Resources
+[Machine Learning Courses & Resources I Recommend]([https://github.com/bofanh](https://www.mrdbourke.com/ml-resources/])
+
 
 ## Contribution
 ### Contributors 
