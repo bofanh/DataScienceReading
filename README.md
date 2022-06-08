@@ -9,9 +9,8 @@ Strongly encourage you to make **pull request** to update information!
 ![](https://img.shields.io/github/last-commit/bofanh/DataScienceReading?color=green)
 
 <!-- omit in toc -->
-## Contents
+## Table of Contents
 
-Personal data science related reading.
 
 - [DataSience Reading](#datasciencereading)
   - [Introduction](#introduction)
