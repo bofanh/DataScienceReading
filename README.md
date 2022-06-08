@@ -52,19 +52,19 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 
 ### Deep Learning
-[1. Deep Learning](https://www.deeplearningbook.org/)
+[1. Deep Learning](https://www.deeplearningbook.org/) ![](https://img.shields.io/badge/Document-blue)
 
-[2. PyTorch](https://pytorch.org/)
+[2. PyTorch](https://pytorch.org/)![](https://img.shields.io/badge/Document-blue)
 
-[3. PyTorch Resource](https://pytorch.org/resources/)
+[3. PyTorch Resource](https://pytorch.org/resources/) ![](https://img.shields.io/badge/Document-blue)
 
-[4. PYTORCH DOCUMENTATION](https://pytorch.org/docs/stable/index.html)
+[4. PYTORCH DOCUMENTATION](https://pytorch.org/docs/stable/index.html) ![](https://img.shields.io/badge/Document-blue)
 
-[5. Fastbook](https://github.com/fastai/fastbook)
+[5. Fastbook](https://github.com/fastai/fastbook) ![](https://img.shields.io/badge/Repository-blue)
 
 
 ### 2022 Summer Medical Informatics Papers
-[1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4)
+[1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue)
 
 
 
