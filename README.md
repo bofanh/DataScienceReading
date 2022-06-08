@@ -64,7 +64,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 
 ### 2022 Summer Medical Informatics Papers
-[1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue)
+[1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue) [notes](notes/Automatically-disambiguating-medical-acronyms-with-ontology-aware-deep-learning.md)
 
 
 ### Write LATEX Paper
