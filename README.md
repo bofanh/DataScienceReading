@@ -1,4 +1,4 @@
-# DataScienceReading
+# Data Science Reading
 
 
 Here is my data science related library for the books and papers I read and used for academic purpose.
