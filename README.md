@@ -72,6 +72,9 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 [2. LATEX Template](https://www.latextemplates.com/)
 
+### General
+[1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
+
 ## Contribution
 ### Contributors 
 [ME](https://github.com/bofanh), and Next one is YOU.
