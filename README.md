@@ -20,6 +20,7 @@ Strongly encourage you to make **pull request** to update information!
     - [Deep Learning](#deeplearning)
     - [2022 Summer Medical Informatics Papers](#2022summermedicalinformaticspapers)
     - [Write LATEX Paper](#writelatexpaper)
+    - [General](#general)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
 
