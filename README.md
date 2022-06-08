@@ -19,6 +19,7 @@ Personal data science related reading.
   - [Papers](#papers)
     - [Machine Learning Resources](#machinelearningresources)
     - [Deep Learning](#deeplearning)
+    - [2022 Summer Medical Informatics Papers](#2022summermedicalinformaticspapers)
     - [Write LATEX Paper](#writelatexpaper)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
@@ -62,6 +63,9 @@ This is a paper list about **Data Science** for academic and study purpose. In t
 
 [5. Fastbook](https://github.com/fastai/fastbook)
 
+
+### 2022 Summer Medical Informatics Papers
+[1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4)
 
 
 
