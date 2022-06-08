@@ -67,11 +67,8 @@ This is a paper list about **Data Science** for academic and study purpose.
 [1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue)
 
 
-
-
-
 ### Write LATEX Paper
-[1. Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/LATEX-blue)
+[1. Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/Document-blue)
 
 [2. LATEX Template](https://www.latextemplates.com/)
 
