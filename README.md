@@ -28,7 +28,7 @@ Personal data science related reading.
 
 ## Introduction
 
-This is a paper list about **Data Science** for academic and study purpose. In the a
+This is a paper list about **Data Science** for academic and study purpose.
 
 ### Annotations
 
