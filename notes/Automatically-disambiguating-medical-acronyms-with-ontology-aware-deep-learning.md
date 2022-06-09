@@ -6,7 +6,7 @@ ___
 Using machine learning to train clinical and research workflow requires entensive manually labeled datasets. Due to the fact that many abbreviations and acronyms are ambiguous with respect to their sense, complete and accurate text analysis is impossible without identification of the sense that was intended for a given abbreviation or acronym.[[1]](#reference) In this paper research team, they uses the novel data augmentation techniques[[2]](#reference) to improve the accurancy of abbreviation disambiguation.
 
 ### Introduction
-
+___
 
 
 
@@ -41,6 +41,8 @@ ___
 		**Search the UMLS by term, code, or UMLS CUI**
 
 		The UMLS Metathesaurus is a large **biomedical thesaurus** that is organized by concept, or meaning. It links synonymous names from over 200 different source vocabularies. The Metathesaurus also identifies useful relationships between concepts and preserves the meanings, concept names, and relationships from each vocabulary.
+		
+		The UMLS has been used in natural language processing applications such as information retrieval and information extraction systems.[[3]](#reference)
 
 	* [AllAcronyms](https://www.allacronyms.com/_medical)
 		**Medical Abbreviations Dictionary**
@@ -61,3 +63,5 @@ ___
 [1. Abbreviation and Acronym Disambiguation in Clinical Discourse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560669/)
 ___
 [2. what is novel data augmentation techniques?](https://www.google.com)
+___
+[3. Automatic Resolution of Ambiguous Terms Based on Machine Learning and Conceptual Relations in the UMLS](https://doi.org/10.1197/jamia.M1101)
