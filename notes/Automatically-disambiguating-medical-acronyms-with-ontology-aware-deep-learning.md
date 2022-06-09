@@ -3,10 +3,12 @@
 
 ### Issue
 ___
-Using machine learning to train clinical and research workflow requires entensive manually labeled datasets. Due to the fact that many abbreviations and acronyms are ambiguous with respect to their sense, complete and accurate text analysis is impossible without identification of the sense that was intended for a given abbreviation or acronym.[[1]](#reference) In this paper research team, they uses the novel data augmentation techniques[[2]](#reference) to improve the accurancy of abbreviation disambiguation.
+Health practioners generally record patient's complex medical terminology data in abbreviations. Using machine learning to train clinical and research workflow requires entensive manually labeled datasets. Due to the fact that many abbreviations and acronyms are ambiguous with respect to their sense, complete and accurate text analysis is impossible without identification of the sense that was intended for a given abbreviation or acronym.[[1]](#reference)[Abbreviation and acronym disambiguation in clinical discourse](https://pubmed.ncbi.nlm.nih.gov/16779108/)disambiguated the sense of abbrevciatiaon by manually annotated corpus. In this paper research team, they uses the novel data augmentation techniques[[2]](#reference) and automatically generating annotations to improve the accurancy of abbreviation disambiguation.
 
 ### Introduction
 ___
+
+
 
 
 
