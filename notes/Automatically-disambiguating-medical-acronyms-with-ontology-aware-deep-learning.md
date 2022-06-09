@@ -1,11 +1,19 @@
 ## [Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4#Abs1)
----
+
 
 ### Issue
+___
+Using machine learning to train clinical and research workflow requires entensive manually labeled datasets. Due to the fact that many abbreviations and acronyms are ambiguous with respect to their sense, complete and accurate text analysis is impossible without identification of the sense that was intended for a given abbreviation or acronym.[[1]](#reference) In this paper research team, they uses the novel data augmentation techniques[[2]](#reference) to improve the accurancy of abbreviation disambiguation.
 
-Using machine learning to train clinianl and research workflow requires entensive manually labeled datasets. [Due to the fact that many abbreviations and acronyms are ambiguous with respect to their sense, complete and accurate text analysis is impossible without identification of the sense that was intended for a given abbreviation or acronym.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560669/) [[1]](#reference) In this paper research team, they uses the novel data augmentation techmiques[[2]](#reference) to improve the accurancy of abbreviation disambiguation.
+### Introduction
+
+
+
+
+
 
 ### Data Source
+___
 1. Clinical Data 
 	* [MIMIC III](https://physionet.org/content/mimiciii/1.4/)
 		**Clinical Database**
@@ -21,7 +29,7 @@ Using machine learning to train clinianl and research workflow requires entensiv
 
 		**All annotated and unannotated, deidentified patient discharge summaries** previously made available to the community for research purposes through i2b2.org will now be accessed as n2c2 data sets through the DBMI Data Portal. Previous challenge participants will also access any challenge-specific documents in the Data Portal.
 
-
+___
 2. Clinical Vocabulary Dictionary
 	* [CASI](https://conservancy.umn.edu/handle/11299/137703)
 		**Clinical Abbreviation Sense Inventory**
@@ -37,7 +45,7 @@ Using machine learning to train clinianl and research workflow requires entensiv
 	* [AllAcronyms](https://www.allacronyms.com/_medical)
 		**Medical Abbreviations Dictionary**
 
-### Introduction
+
 
 ### Results
 
@@ -49,6 +57,7 @@ Using machine learning to train clinianl and research workflow requires entensiv
 1. 
 2. 
 ### Reference
+___
 [1. Abbreviation and Acronym Disambiguation in Clinical Discourse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560669/)
-
+___
 [2. what is novel data augmentation techniques?](https://www.google.com)
