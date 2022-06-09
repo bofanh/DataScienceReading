@@ -3,7 +3,7 @@
 
 ### Issue
 
-Using machine learning to train clinianl and research workflow requires entensive manually labeled datasets. [Due to the fact that many abbreviations and acronyms are ambiguous with respect to their sense, complete and accurate text analysis is impossible without identification of the sense that was intended for a given abbreviation or acronym.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560669/) [[1]](#reference)
+Using machine learning to train clinianl and research workflow requires entensive manually labeled datasets. [Due to the fact that many abbreviations and acronyms are ambiguous with respect to their sense, complete and accurate text analysis is impossible without identification of the sense that was intended for a given abbreviation or acronym.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560669/) [[1]](#reference) In this paper research team, they uses the novel data augmentation techmiques[[2]](#reference) to improve the accurancy of abbreviation disambiguation.
 
 ### Data Source
 1. Clinical Data 
@@ -46,7 +46,9 @@ Using machine learning to train clinianl and research workflow requires entensiv
 ### Methods
 
 ### Other
-1. what is novel data augmentation techniques?
+1. 
 2. 
 ### Reference
 [1. Abbreviation and Acronym Disambiguation in Clinical Discourse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560669/)
+
+[2. what is novel data augmentation techniques?](https://www.google.com)
