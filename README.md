@@ -67,6 +67,9 @@ This is a paper list about **Data Science** for academic and study purpose.
 ### 2022 Summer Medical Informatics Papers
 [1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue) [notes](notes/Automatically-disambiguating-medical-acronyms-with-ontology-aware-deep-learning.md)
 
+[2. Biomedical Ontologies to Guide AI Development in Radiology](https://link.springer.com/article/10.1007/s10278-021-00527-1) ![](https://img.shields.io/badge/Paper-blue) [notes](notes/biomedical-ontologies-to-guide-ai-development-in-radiology.md)
+
+
 
 ### Write LATEX Paper
 [1. Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/Document-blue)
