@@ -20,6 +20,7 @@ Strongly encourage you to make **pull request** to update information!
     - [Deep Learning](#deeplearning)
     - [2022 Summer Medical Informatics Papers](#2022summermedicalinformaticspapers)
     - [Write LATEX Paper](#writelatexpaper)
+    - [General](#general)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
 
@@ -64,13 +65,16 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 
 ### 2022 Summer Medical Informatics Papers
-[1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue)
+[1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue) [notes](notes/Automatically-disambiguating-medical-acronyms-with-ontology-aware-deep-learning.md)
 
 
 ### Write LATEX Paper
 [1. Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/Document-blue)
 
 [2. LATEX Template](https://www.latextemplates.com/)
+
+### General
+[1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
 
 ## Contribution
 ### Contributors 
