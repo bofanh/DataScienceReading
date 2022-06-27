@@ -47,3 +47,8 @@ What it means:
 BacterialPneumonia → Pneumonia
 BacterialPneumonia → causedBy some Bacterium
 
+| attributes| describesion | Example|
+| --- | --- | ---|
+|Class| Object, Thing| Person, Animal| Class(pp:man complete intersectionOf(pp:person pp:male pp:adult))|
+|Properties|describing a kind of relationship between individuals|ObjectProperty(pp:is_pet_of inverseOf(pp:has_pet))||
+|Individual|objects in the world,belong to classes,re related to other objects and to data values via properties|Individual(pp:Rex type(pp:dog) value(pp:is_pet_of pp:Mick))|
