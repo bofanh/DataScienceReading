@@ -48,7 +48,7 @@ BacterialPneumonia → Pneumonia
 BacterialPneumonia → causedBy some Bacterium
 
 
-#### Architecture of the Web Ontology Language
+### Architecture of the Web Ontology Language
 
 | Attributes| Description | Example|
 | --- | --- | ---|
