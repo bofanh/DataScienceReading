@@ -52,3 +52,19 @@ BacterialPneumonia → causedBy some Bacterium
 |Class| Object, Thing| Person, Animal| Class(pp:man complete intersectionOf(pp:person pp:male pp:adult))|
 |Properties|describing a kind of relationship between individuals|ObjectProperty(pp:is_pet_of inverseOf(pp:has_pet))||
 |Individual|objects in the world,belong to classes,re related to other objects and to data values via properties|Individual(pp:Rex type(pp:dog) value(pp:is_pet_of pp:Mick))|
+
+___
+
+### Ontology in Machine Learning
+
+1: The combination of classes from different ontologies in ontology axioms can also be used to induce background knowledge in predictive analysis; axioms can be used to expand or enrich features in machine learning or to constrain the search for a solution to an optimization problem. Expanding or enriching features may make information available to a machine learning model that it would not be able to access without relying on ontologies. 
+
+2: The knowledge in ontologies may be used to constrain the search for solutions to an optimization problem and thereby finding a solution faster, finding a better solution or finding a solution that is generalized better.
+For example, a gene product involved in cardiac muscle tissue development ( GO:0048738) must be involved in heart development ( GO:0007507) simply based on the definition of the two classes in the Gene Ontology.
+
+### Challenges
+
+This challenge is not only one of the researches in Artificial Intelligence but also a new challenge in Bioinformatics research as well due to the widespread use of ontologies and formalized knowledge bases in biology and biomedicine and the unique characteristics of biomedical ontologies such as their large size and the manually created axioms.
+
+
+
