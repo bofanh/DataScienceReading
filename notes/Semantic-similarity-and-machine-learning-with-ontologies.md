@@ -47,6 +47,9 @@ What it means:
 BacterialPneumonia → Pneumonia
 BacterialPneumonia → causedBy some Bacterium
 
+
+Architecture of the Web Ontology Language
+
 | Attributes| Description | Example|
 | --- | --- | ---|
 |Class| Object, Thing| Person, Animal| Class(pp:man complete intersectionOf(pp:person pp:male pp:adult))|
