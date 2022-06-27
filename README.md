@@ -67,6 +67,8 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 [2. Biomedical Ontologies to Guide AI Development in Radiology](https://link.springer.com/article/10.1007/s10278-021-00527-1) ![](https://img.shields.io/badge/Paper-blue) [notes](notes/biomedical-ontologies-to-guide-ai-development-in-radiology.md)
 
+[3. Semantic similarity and machine learning with ontologies](https://academic.oup.com/bib/article/22/4/bbaa199/5922325) ![](https://img.shields.io/badge/Paper-blue) [Github](https://github.com/bio-ontology-research-group/machine-learning-with-ontologies)
+
 
 
 ### Write LATEX Paper
