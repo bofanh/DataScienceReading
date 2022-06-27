@@ -1,5 +1,8 @@
 ## Semantic similarity and machine learning with ontologies
 ___
+
+### Citation
+
 Maxat Kulmanov, Fatima Zohra Smaili, Xin Gao, Robert Hoehndorf, Semantic similarity and machine learning with ontologies, Briefings in Bioinformatics, Volume 22, Issue 4, July 2021, bbaa199, https://doi.org/10.1093/bib/bbaa199
 
 ___
@@ -20,10 +23,12 @@ ___
 
 ### Additional Resources
 
-Code: https://github.com/bio-ontology-research-group/machine-learning-with-ontologies
+[Code](https://github.com/bio-ontology-research-group/machine-learning-with-ontologies)
 
+___
 
 ### Web Ontology Language (OWL)
-[CreateOntology](https://www.cs.man.ac.uk/~horrocks/ISWC2003/Tutorial/examples.pdf)
-The majority of biomedical ontologies are formalized using the Web Ontology Language (OWL), a language based on Description Logic (a decidable fragment of first order predicate logic). [OWLExample]()
 
+[CreateOntology](https://www.cs.man.ac.uk/~horrocks/ISWC2003/Tutorial/examples.pdf)
+
+The majority of biomedical ontologies are formalized using the Web Ontology Language (OWL), a language based on Description Logic (a decidable fragment of first order predicate logic). 
