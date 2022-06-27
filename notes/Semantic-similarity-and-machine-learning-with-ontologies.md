@@ -10,13 +10,16 @@ ___
 ### Ontologies
 
 What:
+
 Ontologies are used to provide background knowledge in similarity-based analysis and machine learning models.
 
 How:
+
 This article outline how semantic similarity measures and ontology embeddings can exploit the background knowledge in ontologies and how ontologies can provide constraints that improve machine learning models. 
 
 
 Why:
+
 In the life sciences, domain-specific knowledge is often encoded in ontologies and in the database and knowledge base that use ontologies for annotation. Hundreds of ontologies have been developed, spanning almost all domains of biological and biomedical research.
 The main features biomedical ontologies provide are controlled vocabularies for characterizing biological phenomena and as formalized knowledge bases that formally describe the phenomena within a domain and link them to other related domains
 ___
