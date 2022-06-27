@@ -47,7 +47,7 @@ What it means:
 BacterialPneumonia → Pneumonia
 BacterialPneumonia → causedBy some Bacterium
 
-| attributes| describesion | Example|
+| Attributes| Description | Example|
 | --- | --- | ---|
 |Class| Object, Thing| Person, Animal| Class(pp:man complete intersectionOf(pp:person pp:male pp:adult))|
 |Properties|describing a kind of relationship between individuals|ObjectProperty(pp:is_pet_of inverseOf(pp:has_pet))||
