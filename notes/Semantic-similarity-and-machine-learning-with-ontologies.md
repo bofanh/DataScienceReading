@@ -34,4 +34,16 @@ ___
 
 [CreateOntology](https://www.cs.man.ac.uk/~horrocks/ISWC2003/Tutorial/examples.pdf)
 
+[OWL-Biomedical-Ontology-Tutorial](http://www.cs.man.ac.uk/~rector/modules/cds/OWL%20Biomedical%20Ontology%20Tutorial-v1.pdf)
+
 The majority of biomedical ontologies are formalized using the Web Ontology Language (OWL), a language based on Description Logic (a decidable fragment of first order predicate logic). 
+
+Example:
+The paraphrase for the new information is: Pneumonia “isKindOf Pneumonia”
+∃ hasCause Bacterium “hasCause SOME Bacterium”
+What it means:
+“All bacterial pneumonias are pneumonias”
+“All bacterial pneumonia is caused by some bacteria” Represented in simple logic notation as:
+BacterialPneumonia → Pneumonia
+BacterialPneumonia → causedBy some Bacterium
+
