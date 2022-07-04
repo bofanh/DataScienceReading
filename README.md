@@ -69,7 +69,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 [3. Semantic similarity and machine learning with ontologies](https://academic.oup.com/bib/article/22/4/bbaa199/5922325) ![](https://img.shields.io/badge/Paper-blue) [Github](https://github.com/bio-ontology-research-group/machine-learning-with-ontologies)
 
-[4. Semantic similarity and machine learning with ontologies](https://academic.oup.com/bib/article/22/4/bbaa199/5922325?login=false) ![](https://img.shields.io/badge/Paper-blue) 
+[4. The use of SNOMED CT, 2013-2020: a literature review](https://academic.oup.com/jamia/article-abstract/28/9/2017/6307174?redirectedFrom=fulltext) ![](https://img.shields.io/badge/Paper-blue) 
 
 ### Write LATEX Paper
 [1. Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/Document-blue)
