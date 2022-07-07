@@ -18,7 +18,8 @@ Here is my data science related library for the books and papers I read and used
     - [Deep Learning](#deeplearning)
     - [2022 Summer Medical Informatics Papers](#2022summermedicalinformaticspapers)
     - [Write LATEX Paper](#writelatexpaper)
-    - [General](#general)
+  - [General](#general)
+  - [Tutourial](#tutourial)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
 
@@ -30,7 +31,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 ### Annotations
 
-![](https://img.shields.io/badge/TOPIC-blue) The Class that introduced this paper.
+![](https://img.shields.io/badge/Type-blue) Type of the study material. Document/Repository/Video
 
 ![](https://img.shields.io/badge/project1-red) The project that citied this paper.
 
@@ -76,8 +77,11 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 [2. LATEX Template](https://www.latextemplates.com/)
 
-### General
+## General
 [1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
+
+## Tutourial
+[1. Deep Learning A-Z](https://www.udemy.com/course/deeplearning/learn/lecture/6747425#overview) ![](https://img.shields.io/badge/Video-blue)
 
 ## Contribution
 ### Contributor 
