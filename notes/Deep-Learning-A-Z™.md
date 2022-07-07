@@ -11,6 +11,7 @@
 
 
 ---
+## Section 3
 ### Artificial Neurual Network (ANN/NN)
 
 ![the ann](https://i.stack.imgur.com/UrGrT.png)
@@ -47,4 +48,10 @@
 [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 ![How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/images/tikz19.png)
+---
+
+#### Backpropagation
+
+## Section 4
+### Building an ANN
 
