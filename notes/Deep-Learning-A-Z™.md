@@ -5,8 +5,8 @@
 ## Table of Content
 - ANN
   - [The Neuron](#theneuron)
-  - [2. The Activation Function]
-  - [3. How Do Neural Network works]
+  - [The Activation Function](#TheActivationFunction)
+  - [How Do Neural Network works]
 
 
 
