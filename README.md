@@ -19,7 +19,7 @@ Here is my data science related library for the books and papers I read and used
     - [2022 Summer Medical Informatics Papers](#2022summermedicalinformaticspapers)
     - [Write LATEX Paper](#writelatexpaper)
   - [General](#general)
-  - [Tutourial](#tutourial)
+  - [Tutorial](#tutorial)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
 
@@ -80,7 +80,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 ## General
 [1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
 
-## Tutourial
+## Tutorial
 [1. Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/learn/lecture/6747425#overview) ![](https://img.shields.io/badge/Video-blue) [notes](notes/Deep-Learning-A-Z™.md)
 
 
