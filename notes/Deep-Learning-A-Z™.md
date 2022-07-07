@@ -41,4 +41,10 @@
 ---
 #### Gradient Descent
 
-#### Stochasti Gradient Descent
+#### Stochastic Gradient Descent
+[A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+
+[How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+![How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/images/tikz19.png)
+
