@@ -34,7 +34,8 @@
 
 #### How Do Neural Network works
 ---
+![how do the nn works](https://i.stack.imgur.com/76Kuo.png)
 
+[Additional Reading](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
 
-#### 
 ---
