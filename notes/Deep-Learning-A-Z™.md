@@ -6,7 +6,7 @@
 - ANN
   - [The Neuron](#theneuron)
   - [The Activation Function](#TheActivationFunction)
-  - [How Do Neural Network works]
+  - [How Do Neural Network works](#HowDoNeuralNetworkworks)
 
 
 
