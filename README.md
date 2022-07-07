@@ -31,7 +31,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 ### Annotations
 
-![](https://img.shields.io/badge/Type-blue) Type of the study material. Document/Repository/Video
+![](https://img.shields.io/badge/Type-blue) Type of the study material. Document/Repository/Video/Paper
 
 ![](https://img.shields.io/badge/project1-red) The project that citied this paper.
 
