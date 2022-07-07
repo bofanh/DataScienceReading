@@ -3,8 +3,8 @@
 [Tutorial Link](https://www.udemy.com/course/deeplearning/learn/lecture/6747425#overview)
 ---
 ## Table of Content
-- [ANN]
-  - [1. The Neuron]
+- ANN
+  - [1. The Neuron](#1.TheNeuron)
   - [2. The Activation Function]
   - [3. How Do Neural Network works]
 
