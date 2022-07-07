@@ -81,7 +81,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 [1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
 
 ## Tutorial
-[1. Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/learn/lecture/6747425#overview) ![](https://img.shields.io/badge/Video-blue) [notes](notes/Deep-Learning-A-Z™.md)
+[1. Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/learn/lecture/6747425#overview) ![](https://img.shields.io/badge/Udemy-blue) [notes](notes/Deep-Learning-A-Z™.md)
 
 
 
