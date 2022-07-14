@@ -19,7 +19,6 @@ Here is my data science related library for the books and papers I read and used
     - [2022 Summer Medical Informatics Papers](#2022summermedicalinformaticspapers)
     - [Write LATEX Paper](#writelatexpaper)
   - [General](#general)
-  - [Tutorial](#tutorial)
   - [Contribution](#contribution)
     - [Contributors](#contributors)
 
@@ -62,6 +61,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 [5. Fastbook](https://github.com/fastai/fastbook) ![](https://img.shields.io/badge/Repository-blue)
 
+[6. Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/learn/lecture/6747425#overview) ![](https://img.shields.io/badge/Tutorial-blue) [notes](notes/Deep-Learning-A-Z™.md)
 
 ### 2022 Summer Medical Informatics Papers
 [1. Automatically disambiguating medical acronyms with ontology-aware deep learning](https://www.nature.com/articles/s41467-021-25578-4) ![](https://img.shields.io/badge/Paper-blue) [notes](notes/Automatically-disambiguating-medical-acronyms-with-ontology-aware-deep-learning.md)
@@ -79,10 +79,6 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 ## General
 [1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
-
-## Tutorial
-[1. Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/learn/lecture/6747425#overview) ![](https://img.shields.io/badge/Udemy-blue) [notes](notes/Deep-Learning-A-Z™.md)
-
 
 
 ## Contribution
