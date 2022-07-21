@@ -73,6 +73,7 @@ This is a paper list about **Data Science** for academic and study purpose.
 [4. The use of SNOMED CT, 2013-2020: a literature review](https://academic.oup.com/jamia/article-abstract/28/9/2017/6307174?redirectedFrom=fulltext) ![](https://img.shields.io/badge/Paper-blue) 
 
 ### Write LATEX Paper
+
 [1. Intro to LATEX](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf) ![](https://img.shields.io/badge/Document-blue)
 
 [2. LATEX Template](https://www.latextemplates.com/)
@@ -80,6 +81,10 @@ This is a paper list about **Data Science** for academic and study purpose.
 [3. LATEX CheatSheet](https://wch.github.io/latexsheet/latexsheet.pdf)
 
 [4. LATEX CheatSheet for Thesis](http://tug.ctan.org/info/latex-refsheet/LaTeX_RefSheet.pdf)
+
+[5. LATEX 2ε in 139 minutes](https://mirrors.rit.edu/CTAN/info/lshort/english/lshort.pdf)
+
+[6. latex-intro-handouts MIT](http://web.mit.edu/molly/Public/rsi2006/latex-intro-handouts.pdf)
 
 ## General
 [1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
