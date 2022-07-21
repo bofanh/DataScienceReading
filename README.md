@@ -77,6 +77,10 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 [2. LATEX Template](https://www.latextemplates.com/)
 
+[3. LATEX CheatSheet](https://wch.github.io/latexsheet/latexsheet.pdf)
+
+[4. LATEX CheatSheet for Thesis](http://tug.ctan.org/info/latex-refsheet/LaTeX_RefSheet.pdf)
+
 ## General
 [1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
 
