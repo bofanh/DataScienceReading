@@ -84,7 +84,9 @@ This is a paper list about **Data Science** for academic and study purpose.
 
 [5. LATEX 2ε in 139 minutes](https://mirrors.rit.edu/CTAN/info/lshort/english/lshort.pdf)
 
-[6. latex-intro-handouts MIT](http://web.mit.edu/molly/Public/rsi2006/latex-intro-handouts.pdf)
+[6. LATEX-intro-handouts MIT](http://web.mit.edu/molly/Public/rsi2006/latex-intro-handouts.pdf)
+
+[7. LaTeX For Everyone and Everything](notes/Latex/) ![](https://img.shields.io/badge/Code-red)
 
 ## General
 [1. How to present](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf) ![](https://img.shields.io/badge/Document-blue)
